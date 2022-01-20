@@ -1,3 +1,12 @@
+window.onload = () => {
+  const bimage = document.querySelector('.main-block__image')
+
+const image = document.createElement('img');
+image.src = "media/PSX_20220112_090733[493].jpg";
+bimage.append(image)
+} 
+ 
+
 //---Accordion----------------------------------------------------
 const accordion__items = [...document.querySelectorAll('.accordion__item')]; // Получаю элементы .accordion__item
 
