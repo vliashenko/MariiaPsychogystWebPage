@@ -507,14 +507,14 @@ body {
     font-size: 32px;
     font-weight: 600;
     line-height: 1.5;
-    padding: 0px 0px 75px 0px;
+    padding: 0px 0px 35px 0px;
     letter-spacing: 0.2px;
+    text-align: center;
 }
 
 @media(max-width: 860px) {
     .biography__title {
         font-size: 25px;
-        padding: 5px 0px 75px 15px;
         margin: 15px 0px 0px 0px;
     }
 }
@@ -522,7 +522,6 @@ body {
 @media(max-width: 479px) {
     .biography__title {
         font-size: 19px;
-        padding: 5px 0px 75px 15px;
     }
 }
 
@@ -757,13 +756,15 @@ p {
     font-weight: 300;
     letter-spacing: 0.1px;
     line-height: 142%;
-    padding: 2px 0px 20px 0px;
+    padding: 5px 0px 30px 0px;
+    text-align: center;
 }
 
 .product__item__price {
     padding: 0px 25px 20px 0px;
     font-size: 18px;
     font-weight: 600;
+    text-align: center;
 }
 
 /*-----------------------------------------------------------------------------*/
