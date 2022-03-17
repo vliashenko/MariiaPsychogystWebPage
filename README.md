@@ -1,2 +1,2 @@
-![image](https://user-images.githubusercontent.com/87814580/150376869-82888d5d-1551-4426-a33f-cc13c0c4ae20.png)
+![Веб-запис_17-3-2022_145731_mashovets-psychologist com](https://user-images.githubusercontent.com/87814580/158825061-3fd9fbcc-9412-4880-b2e8-906c7225f199.jpeg)
 
